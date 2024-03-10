@@ -23,6 +23,23 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-rodrigo-lopes-62b016263/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_edsonrd_lopes/)
 
+## SOBRE MIM
+
+<h1>Explorando o universo tecnológico, apaixonado por novas competências e soluções sofisticadas.</h1>
+<p>"Como estudante de Sistemas de Informação, dedico-me não apenas aos conteúdos acadêmicos, mas também à busca constante por conhecimento autônomo. Antes mesmo de ingressar na faculdade, já cultivava práticas de estudo eficientes e uma curiosidade inata pela aprendizagem, destacando-me por minha disposição em adquirir e compartilhar conhecimento. Essa abordagem proativa reflete não apenas meu comprometimento com a excelência acadêmica, mas também a paixão que tenho por aprender e contribuir para o mundo da tecnologia."</p>
+
+
+## ASI CODE
+<div align="center">
+<img align="center" style='display: flex' alt="Logo ASI CODE" width="200" src="https://raw.githubusercontent.com/gist/edsonrdl/71ecad92b218a24ed2ec02b7cc49bf36/raw/254daf8825bac4f5d128b788bc0c108e9abf503d/asiCode.svg">
+</div>
+
+<p>"Asi Code" reflete minha abordagem para a codificação.Resultado da minha jornada de evolução como desenvolvedor, focado não apenas em aprimorar minhas habilidades, mas também em compartilhar conhecimento com a comunidade.</p>
+<p>Ao compartilhar snippets, soluções e insights, busco não apenas demonstrar competência técnica, mas também inspirar outros desenvolvedores a abraçarem a criatividade na programação. O "Asi Code" não é apenas um registro visual da minha jornada, mas um convite para a comunidade se unir na busca contínua pela excelência no desenvolvimento de software. Junte-se a mim nesta viagem de aprendizado e descoberta enquanto exploramos o fascinante mundo do desenvolvimento através do prisma único do "Asi Code".</p>
+
+<p><b>Siga no instagram</b></p>
+
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_asi_code/)
 
 ## Tecnologias
 <div style='display: inline_block' align="center" >
@@ -58,9 +75,8 @@
 ## CLOUD
 <div>
 <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img alt="vercel" src="    https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
-
 ## BANCO DE DADOS
 <div>
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">

@@ -41,6 +41,4 @@ Na Área da tecnologia desde 2022
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-rodrigo-lopes-62b016263/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_edsonrd_lopes/)
 
-![snake gif](https://github.com/edsonrdl/edsonrdl/blob/output/github-contribution-grid-snake.svg)
-
-
+![snake gif](https://github.com/edsonrdl/edsonrdl/blob/output/github-contribution-grid-snake.gif)

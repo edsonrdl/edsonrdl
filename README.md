@@ -26,7 +26,7 @@
 ## SOBRE MIM
 
 <h1>Explorando o universo tecnológico, apaixonado por novas competências e soluções sofisticadas.</h1>
-<p>"Como estudante de Sistemas de Informação, dedico-me não apenas aos conteúdos acadêmicos, mas também à busca constante por conhecimento autônomo. Antes mesmo de ingressar na faculdade, já cultivava práticas de estudo eficientes e uma curiosidade inata pela aprendizagem, destacando-me por minha disposição em adquirir e compartilhar conhecimento. Essa abordagem proativa reflete não apenas meu comprometimento com a excelência acadêmica, mas também a paixão que tenho por aprender e contribuir para o mundo da tecnologia."</p>
+<p>"Sou um explorador incansável do universo tecnológico, com paixão por aprender, criar e compartilhar soluções inovadoras. Como estudante de Sistemas de Informação, meu comprometimento vai além do conteúdo acadêmico; busco continuamente conhecimento por meio de práticas autônomas e estudos dirigidos, que desenvolvi ainda antes de ingressar na faculdade. Minha curiosidade e dedicação se refletem na busca constante pela excelência, tanto no aprendizado quanto na aplicação prática da tecnologia."</p>
 
 
 ## ASI CODE
@@ -34,8 +34,8 @@
 <img align="center" style='display: flex' alt="Logo ASI CODE" width="200" src="https://raw.githubusercontent.com/gist/edsonrdl/71ecad92b218a24ed2ec02b7cc49bf36/raw/254daf8825bac4f5d128b788bc0c108e9abf503d/asiCode.svg">
 </div>
 
-<p>"Asi Code" reflete minha abordagem para a codificação.Resultado da minha jornada de evolução como desenvolvedor, focado não apenas em aprimorar minhas habilidades, mas também em compartilhar conhecimento com a comunidade.</p>
-<p>Ao compartilhar snippets, soluções e insights, busco não apenas demonstrar competência técnica, mas também inspirar outros desenvolvedores a abraçarem a criatividade na programação. O "Asi Code" não é apenas um registro visual da minha jornada, mas um convite para a comunidade se unir na busca contínua pela excelência no desenvolvimento de software. Junte-se a mim nesta viagem de aprendizado e descoberta enquanto exploramos o fascinante mundo do desenvolvimento através do prisma único do "Asi Code".</p>
+<p>"Asi Code" representa minha abordagem à codificação e é o resultado da minha evolução como desenvolvedor. Meu foco está em aprimorar constantemente minhas habilidades e compartilhar conhecimento com a comunidade.</p>
+<p>Ao oferecer snippets, soluções e insights, busco não apenas demonstrar competência técnica, mas inspirar outros desenvolvedores a abraçarem a criatividade na programação. "Asi Code" não é apenas um registro visual da minha jornada; é um convite para que a comunidade se una em busca da excelência no desenvolvimento de software. Junte-se a mim nesta jornada de aprendizado e descoberta enquanto exploramos o fascinante mundo do desenvolvimento através da perspectiva única do "Asi Code".</p>
 
 <p><b>Siga no instagram</b></p>
 
@@ -52,14 +52,14 @@
 <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img align="center" alt="Delphi" src="https://img.shields.io/badge/Delphi-EF2D56?style=for-the-badge&logo=delphi&logoColor=white">
+
 </div>
 
 ## BACK-END
 <div>
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align="center" alt="spring boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img align="center" alt="dotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 <img align="center" alt="swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
@@ -85,8 +85,16 @@
 <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img align="center" alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+<img align="center" alt="Elastic Search" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+<img align="center" alt="Firebird" src="https://img.shields.io/badge/Firebird-FF0000?style=for-the-badge&logo=firebird&logoColor=white">
+<img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 
 </div>
+
+## MICROSERVIÇOS E MENSAGERIA
+<img align="center" alt="RabbitMq" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
+<img align="center" alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white">
+
 
 ## DEVOPS/FERRAMENTAS
 <div>
@@ -96,6 +104,9 @@
 <img align="center" alt="ngrok" src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white">
 <img align="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<img align="center" alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+<img align="center" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img align="center" alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
 </div>
 
 
@@ -104,13 +115,16 @@
 <img align="center" alt="VS code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img align="center" alt="Visual studio 2022" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 <img align="center" alt="Android studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+<img align="center" alt="Delphi" src="https://img.shields.io/badge/Embarcadero%20Delphi-EF2D56?style=for-the-badge&logo=delphi&logoColor=white">
+<img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div>
 
 ## FERRAMENTAS DE ORGANIZAÇÃO PESSOAL
 <div>
 <img  alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-</div>
+<img  alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 
+</div>
 </div>
 
 

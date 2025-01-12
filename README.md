@@ -5,12 +5,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edsonrdl&bg_color=0d1117&color=991ae6&line=7B7B7B&point=FEFEFE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edsonrdl/edsonrdl/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edsonrdl/edsonrdl/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/edsonrdl/edsonrdl/output/github-contribution-grid-snake.svg">
-</picture>
-
 ## WEB SITES PROFESSIONAL
 [![Blog](https://img.shields.io/badge/Portfólio-0A0A0A?style=for-the-badge&logo=)](https://edsonrdl.github.io/project-portfolio-page-asi-code-edson/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-rodrigo-lopes-62b016263/)

@@ -8,8 +8,7 @@
 ##
 
 <div alin="center">
-
-<img src="https://raw.githubusercontent.com/edsonrdl/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/edsonrdl/edsonrdl/output/snake.svg" alt="Snake animation" />
 </div>
 
 ##

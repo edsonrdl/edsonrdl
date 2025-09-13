@@ -5,6 +5,15 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edsonrdl&bg_color=0d1117&color=991ae6&line=7B7B7B&point=FEFEFE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+##
+
+<div alin="center">
+
+<img src="https://raw.githubusercontent.com/edsonrdl/gitrepo/output/snake.svg" alt="Snake animation" />
+</div>
+
+##
+
 ## WEB SITES PROFESSIONAL
 [![Blog](https://img.shields.io/badge/Portfólio-0A0A0A?style=for-the-badge&logo=)](https://edsonrdl.github.io/project-portfolio-page-asi-code-edson/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-rodrigo-lopes-62b016263/)

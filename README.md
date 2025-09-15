@@ -20,7 +20,7 @@
 
 ## SOBRE MIM
 
-<h1>Full Stack com experiência em soluções de alta performance em arquitetura de software</h1> <p>Sou desenvolvedor com 3 anos de experiência em soluções escaláveis e robustas para web, desktop e mobile. Ao longo da minha carreira, especializei-me em tecnologias como Angular, Spring Boot, e ASP.NET Core. Meu foco está em criar sistemas distribuídos, integrados e eficientes, aplicando práticas de DevOps, arquitetura de microserviços e monitoramento de sistemas. Tenho experiência em integração de sistemas usando RabbitMQ e Kafka, além de trabalhar com containers e orquestração em Kubernetes.</p>
+<h1>Software Engineer com experiência em soluções de alta performance em arquitetura de software</h1> <p>Sou desenvolvedor com 3 anos de experiência em soluções escaláveis e robustas para web, desktop e mobile. Ao longo da minha carreira, especializei-me em tecnologias como Angular, Spring Boot, e ASP.NET Core. Meu foco está em criar sistemas distribuídos, integrados e eficientes, aplicando práticas de DevOps, arquitetura de micro serviços e monitoramento de sistemas. Tenho experiência em integração de sistemas usando RabbitMQ e Kafka, além de trabalhar com containers e orquestração em Kubernetes.</p>
 
 
 ## ASI CODE

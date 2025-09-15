@@ -20,20 +20,7 @@
 
 ## SOBRE MIM
 
-<h1>Software Engineer com experiência em soluções de alta performance em arquitetura de software</h1> <p>Sou desenvolvedor com 3 anos de experiência em soluções escaláveis e robustas para web, desktop e mobile. Ao longo da minha carreira, especializei-me em tecnologias como Angular, Spring Boot, e ASP.NET Core. Meu foco está em criar sistemas distribuídos, integrados e eficientes, aplicando práticas de DevOps, arquitetura de micro serviços e monitoramento de sistemas. Tenho experiência em integração de sistemas usando RabbitMQ e Kafka, além de trabalhar com containers e orquestração em Kubernetes.</p>
-
-
-## ASI CODE
-<div align="center">
-<img align="center" style='display: flex' alt="Logo ASI CODE" width="200" src="https://raw.githubusercontent.com/gist/edsonrdl/71ecad92b218a24ed2ec02b7cc49bf36/raw/254daf8825bac4f5d128b788bc0c108e9abf503d/asiCode.svg">
-</div>
-
-<p>"Asi Code" representa minha abordagem à codificação e é o resultado da minha evolução como desenvolvedor. Meu foco está em aprimorar constantemente minhas habilidades e compartilhar conhecimento com a comunidade.</p>
-<p>Ao oferecer snippets, soluções e insights, busco não apenas demonstrar competência técnica, mas inspirar outros desenvolvedores a abraçarem a criatividade na programação. "Asi Code" não é apenas um registro visual da minha jornada; é um convite para que a comunidade se una em busca da excelência no desenvolvimento de software. Junte-se a mim nesta jornada de aprendizado e descoberta enquanto exploramos o fascinante mundo do desenvolvimento através da perspectiva única do "Asi Code".</p>
-
-<p><b>Siga no instagram</b></p>
-
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_asi_code/)
+<p>Engenheiro de Software com mais de 3 anos de experiência em arquitetura e desenvolvimento de soluções robustas e escaláveis para ambientes web, desktop e mobile. Meu foco é na construção de sistemas distribuídos e de alta performance, utilizando uma abordagem estratégica que une a expertise em tecnologias como <strong>Java (Spring Boot), .NET (ASP.NET Core) e Angular</strong> com práticas avançadas de engenharia. Tenho ampla experiência na modernização de sistemas legados, migrando monólitos para arquiteturas de <strong>microsserviços</strong> e implementando soluções de <strong>mensageria (RabbitMQ, Kafka)</strong> para garantir a resiliência e a comunicação assíncrona. Além disso, sou proficiente em <strong>DevOps, CI/CD, monitoramento e orquestração com Kubernetes</strong>, assegurando a automação e a estabilidade dos ambientes de produção.</p>
 
 ## Tecnologias
 <div style='display: inline_block' align="center" >

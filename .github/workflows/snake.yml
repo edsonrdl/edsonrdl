@@ -29,7 +29,7 @@ jobs:
         with:
           github_user_name: edsonrdl
           outputs: |
-            dist/snake.svg
+            dist/snake.svg?color_snake_bg=#0d1117 
             dist/snake-dark.svg?palette=github-dark
             dist/snake-light.svg?palette=github-light
 

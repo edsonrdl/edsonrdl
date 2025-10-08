@@ -6,9 +6,11 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edsonrdl&bg_color=0d1117&color=991ae6&line=7B7B7B&point=FEFEFE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
+
 <div alin="center">
 <img src="https://raw.githubusercontent.com/edsonrdl/edsonrdl/output/snake-dark.svg" alt="Snake animation" />
 </div>
+
 ##
 
 ## WEB SITES PROFESSIONAL
